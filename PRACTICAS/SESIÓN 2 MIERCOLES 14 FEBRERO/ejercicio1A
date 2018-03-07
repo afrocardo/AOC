@@ -1,0 +1,21 @@
+//Ejercicio 1 A.
+
+int dato1;
+int dato 2;
+int resultado;
+
+cout<<"Introduzca un numero para dato1"<<endl;
+cin>>dato1;
+
+cout<<"Introduzca un numero para dato2"<<endl;
+cin>>dato2;
+
+//Sentencia if
+if(dato2==0){
+   resultado=0;
+}
+else{
+    resultado=dato1/dato2;
+}
+return resultado;
+

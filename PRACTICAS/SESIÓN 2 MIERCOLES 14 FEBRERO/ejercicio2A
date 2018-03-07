@@ -1,0 +1,16 @@
+//Ejercicio 2A.
+
+int dato1;
+int dato 2;
+
+//Sentencia if-else.
+if($t2==0){
+   cout<<"Es par"<<endl;
+   $t1=1;
+
+
+}
+else{
+   cout<<"Es impar"<<endl;
+   $t1=0;
+}
